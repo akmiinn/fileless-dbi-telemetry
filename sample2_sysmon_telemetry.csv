@@ -1,0 +1,100 @@
+"TimeCreated","Id","LevelDisplayName","Message"
+"9/27/2026 2:50:38 PM","11","Information","File created:
+RuleName: -
+UtcTime: 2026-09-27 07:50:38.110
+ProcessGuid: {25779424-c6b6-6ab8-0703-000000000900}
+ProcessId: 8044
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Miu Miu\AppData\Local\Temp\__PSScriptPolicyTest_fahwpkx3.dbn.ps1
+CreationUtcTime: 2026-09-27 07:50:38.110
+User: syian-lab\Miu Miu"
+"9/27/2026 2:33:54 PM","11","Information","File created:
+RuleName: -
+UtcTime: 2026-09-27 07:33:54.450
+ProcessGuid: {25779424-c6c2-6ab8-0a03-000000000900}
+ProcessId: 4344
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Miu Miu\AppData\Local\Temp\__PSScriptPolicyTest_u4ra3hnp.mvz.ps1
+CreationUtcTime: 2026-09-27 07:33:54.450
+User: syian-lab\Miu Miu"
+"9/27/2026 2:33:22 PM","1","Information","Process Create:
+RuleName: -
+UtcTime: 2026-09-27 07:33:22.197
+ProcessGuid: {25779424-c6c2-6ab8-0a03-000000000900}
+ProcessId: 4344
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.26100.5074 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" -ExecutionPolicy Bypass -File C:\PinLab\sample2.ps1
+CurrentDirectory: C:\PinLab\intel64\
+User: syian-lab\Miu Miu
+LogonGuid: {25779424-a4be-6ab8-e3aa-040000000000}
+LogonId: 0x4AAE3
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=A97E6573B97B44C96122BFA543A82EA1,SHA256=0FF6F2C94BC7E2833A5F7E16DE1622E5DBA70396F31C7D5F56381870317E8C46,IMPHASH=AFACF6DC9041114B198160AAB4D0AE77
+ParentProcessGuid: {25779424-c6c2-6ab8-0903-000000000900}
+ParentProcessId: 1140
+ParentImage: C:\PinLab\intel64\bin\pin.exe
+ParentCommandLine: ""C:\PinLab\intel64\bin\pin.exe"" -t .\bin\MyPinTool.dll -o sample2_run.log -- C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File C:\PinLab\sample2.ps1
+ParentUser: syian-lab\Miu Miu"
+"9/27/2026 2:33:22 PM","1","Information","Process Create:
+RuleName: -
+UtcTime: 2026-09-27 07:33:22.140
+ProcessGuid: {25779424-c6c2-6ab8-0903-000000000900}
+ProcessId: 1140
+Image: C:\PinLab\intel64\bin\pin.exe
+FileVersion: -
+Description: -
+Product: -
+Company: -
+OriginalFileName: -
+CommandLine: ""C:\PinLab\intel64\bin\pin.exe"" -t .\bin\MyPinTool.dll -o sample2_run.log -- C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File C:\PinLab\sample2.ps1
+CurrentDirectory: C:\PinLab\intel64\
+User: syian-lab\Miu Miu
+LogonGuid: {25779424-a4be-6ab8-e3aa-040000000000}
+LogonId: 0x4AAE3
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=D8AC7463956D04A3AE496E2B5193903E,SHA256=2AD5AAC008BF7C15047AF11E4F12E04C6B6BB5C51E8603AE4F88EF82C9EFF466,IMPHASH=D048B8DFE737FAFF72402B04135BDB52
+ParentProcessGuid: {25779424-c6b6-6ab8-0703-000000000900}
+ParentProcessId: 8044
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+ParentUser: syian-lab\Miu Miu"
+"9/27/2026 2:33:10 PM","11","Information","File created:
+RuleName: -
+UtcTime: 2026-09-27 07:33:10.673
+ProcessGuid: {25779424-c6b6-6ab8-0703-000000000900}
+ProcessId: 8044
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\Miu Miu\AppData\Local\Temp\__PSScriptPolicyTest_simlu3dz.en5.ps1
+CreationUtcTime: 2026-09-27 07:33:10.673
+User: syian-lab\Miu Miu"
+"9/27/2026 2:33:10 PM","1","Information","Process Create:
+RuleName: -
+UtcTime: 2026-09-27 07:33:10.041
+ProcessGuid: {25779424-c6b6-6ab8-0703-000000000900}
+ProcessId: 8044
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.26100.5074 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft? Windows? Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: ""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" 
+CurrentDirectory: C:\WINDOWS\system32\
+User: syian-lab\Miu Miu
+LogonGuid: {25779424-a4be-6ab8-e3aa-040000000000}
+LogonId: 0x4AAE3
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=A97E6573B97B44C96122BFA543A82EA1,SHA256=0FF6F2C94BC7E2833A5F7E16DE1622E5DBA70396F31C7D5F56381870317E8C46,IMPHASH=AFACF6DC9041114B198160AAB4D0AE77
+ParentProcessGuid: {25779424-a4c0-6ab8-6600-000000000900}
+ParentProcessId: 5360
+ParentImage: C:\Windows\explorer.exe
+ParentCommandLine: C:\WINDOWS\Explorer.EXE
+ParentUser: syian-lab\Miu Miu"
