@@ -12,7 +12,7 @@ This tool serves as the primary artifact for evaluating the telemetry coverage g
 * **CLR & OS Noise Filtering:** Classifies and aggregates known `.NET CLR` and `Windows OS` module traces to minimize instrumentation overhead, allowing stable analysis of complex script-hosted processes like `powershell.exe`.
 * **Thread Tracking & Module Mapping:** Logs `THREAD_START`, `THREAD_END`, and `IMG_LOAD` events chronologically to facilitate correlation with standard endpoint event logs.
 
-## Research Context (Thesis RQ5)
+## Context 
 
 Standard endpoint telemetry (such as Sysmon) monitors OS-level events. When evaluating PowerShell-based fileless threats, Sysmon reliably captures initial command-line executions (Event ID 1) and file creation (Event ID 11) but suffers from a critical blind spot: it cannot natively monitor execution flows happening inside dynamically allocated, unbacked memory pages.
 
